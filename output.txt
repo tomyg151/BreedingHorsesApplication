@@ -1,0 +1,1105 @@
+addHorse returns: Successfully added Horse H001 to BreedingHorses
+
+addHorse returns: Successfully added Horse H002 to BreedingHorses
+
+addHorse returns: Successfully added Horse H003 to BreedingHorses
+
+addHorse returns: Successfully added Horse H004 to BreedingHorses
+
+addHorse returns: Successfully added Horse H005 to BreedingHorses
+
+addHorse returns: Successfully added Horse H006 to BreedingHorses
+
+addHorse returns: Successfully added Horse H007 to BreedingHorses
+
+addHorse returns: Successfully added Horse H008 to BreedingHorses
+
+addHorse returns: Successfully added Horse H009 to BreedingHorses
+
+addHorse returns: Successfully added Horse H010 to BreedingHorses
+
+addHorse returns: Successfully added Horse H011 to BreedingHorses
+
+addHorse returns: Successfully added Horse H012 to BreedingHorses
+
+addHorse returns: Successfully added Horse H013 to BreedingHorses
+
+addHorse returns: Successfully added Horse H014 to BreedingHorses
+
+addHorse returns: Successfully added Horse H015 to BreedingHorses
+
+addTrainer returns: Successfully added Trainer T001 fullName DovRam to BreedingHorses
+
+addTrainer returns: Successfully added Trainer T002 fullName AlexGore to BreedingHorses
+
+addTrainer returns: Successfully added Trainer T003 fullName AlexGorelik to BreedingHorses
+
+addTrainer returns: Successfully added Trainer T004 fullName IgorShulman to BreedingHorses
+
+addTrainer returns: Successfully added Trainer T005 fullName MuhammadNaser to BreedingHorses
+
+addTrainer returns: Successfully added Trainer T006 fullName FatmaJohny to BreedingHorses
+
+addTrainer returns: Successfully added Trainer T007 fullName RamiLevy to BreedingHorses
+
+addTrainer returns: Successfully added Trainer T008 fullName AlexPoliakov to BreedingHorses
+
+addTrainer returns: Successfully added Trainer T009 fullName MichaelRozin to BreedingHorses
+
+addTrainer returns: Successfully added Trainer T010 fullName ShiriMimon to BreedingHorses
+
+addTrainer returns: Successfully added Trainer T011 fullName DovRam to BreedingHorses
+
+addTrainer returns: Successfully added Trainer T012 fullName RamGadot to BreedingHorses
+
+addTrainer returns: Successfully added Trainer T013 fullName ShmuelShmuel to BreedingHorses
+
+addTrainer returns: Successfully added Trainer T014 fullName BashirZahara to BreedingHorses
+
+addTrainer returns: Successfully added Trainer T015 fullName MotiFridman to BreedingHorses
+
+addVeterinarian returns: Successfully added Veterinarian V001 fullName MladenMladenov to BreedingHorses
+
+addVeterinarian returns: Successfully added Veterinarian V002 fullName DudiKarov to BreedingHorses
+
+addVeterinarian returns: Successfully added Veterinarian V003 fullName DudiKarov to BreedingHorses
+
+addVeterinarian returns: Successfully added Veterinarian V004 fullName VardaOlga to BreedingHorses
+
+addVeterinarian returns: Successfully added Veterinarian V005 fullName MekiRafi to BreedingHorses
+
+addVeterinarian returns: Successfully added Veterinarian V006 fullName RamiKhan to BreedingHorses
+
+addVeterinarian returns: Successfully added Veterinarian V007 fullName RotiHaji to BreedingHorses
+
+addEquestrian returns: Successfully added Equestrian E001 fullName BorisButman to BreedingHorses
+
+addEquestrian returns: Successfully added Equestrian E002 fullName TomRanger to BreedingHorses
+
+addEquestrian returns: Successfully added Equestrian E003 fullName ChuckNorris to BreedingHorses
+
+addEquestrian returns: Successfully added Equestrian E004 fullName TatianaBoikov to BreedingHorses
+
+addEquestrian returns: Successfully added Equestrian E005 fullName NikolayValuev to BreedingHorses
+
+addEquestrian returns: Successfully added Equestrian E006 fullName TatianaRoi to BreedingHorses
+
+addEquestrian returns: Successfully added Equestrian E007 fullName ElenaKoen to BreedingHorses
+
+addEquestrian returns: Successfully added Equestrian E008 fullName JasonStatham to BreedingHorses
+
+addEquestrian returns: Successfully added Equestrian E009 fullName AllaTorhin to BreedingHorses
+
+addEquestrian returns: Successfully added Equestrian E010 fullName DanaDaen to BreedingHorses
+
+addEquestrian returns: Successfully added Equestrian E011 fullName ShmuelShmuel to BreedingHorses
+
+addEquestrian returns: Successfully added Equestrian E012 fullName SashkaTorhinsky to BreedingHorses
+
+addGambler returns: Successfully added Gambler G001 fullName TamiEdit to BreedingHorses
+
+addGambler returns: Successfully added Gambler G002 fullName MahmudJohan to BreedingHorses
+
+addGambler returns: Successfully added Gambler G003 fullName SaraCruz to BreedingHorses
+
+addGambler returns: Successfully added Gambler G004 fullName ArnoldShvarz to BreedingHorses
+
+addGambler returns: Successfully added Gambler G005 fullName SilvestrStatiton to BreedingHorses
+
+addBookMaker returns: Successfully added BookMaker B001 fullName RuthMacker to BreedingHorses
+
+addBookMaker returns: Successfully added BookMaker B002 fullName KarenMcKoy to BreedingHorses
+
+addBookMaker returns: Successfully added BookMaker B003 fullName PhilisMoris to BreedingHorses
+
+addBookMaker returns: Successfully added BookMaker B004 fullName MamaBabushka to BreedingHorses
+
+addBookMaker returns: Successfully added BookMaker B005 fullName DirtyGarry to BreedingHorses
+
+addTrainerToHorse returns: Successfully added Trainer T001 to Horse H001 with nickName Brown
+
+addTrainerToHorse returns: Successfully added Trainer T001 to Horse H002 with nickName Ultima
+
+addTrainerToHorse returns: Successfully added Trainer T001 to Horse H003 with nickName Moisha
+
+addTrainerToHorse returns: Successfully added Trainer T002 to Horse H004 with nickName Sleek
+
+addTrainerToHorse returns: Successfully added Trainer T002 to Horse H005 with nickName Missi
+
+addTrainerToHorse returns: Successfully added Trainer T003 to Horse H006 with nickName Star
+
+addTrainerToHorse returns: Successfully added Trainer T004 to Horse H007 with nickName Max
+
+addTrainerToHorse returns: Successfully added Trainer T005 to Horse H008 with nickName Queen
+
+addTrainerToHorse returns: Successfully added Trainer T006 to Horse H009 with nickName Sable
+
+addTrainerToHorse returns: Successfully added Trainer T007 to Horse H010 with nickName Dream
+
+addTrainerToHorse returns: Successfully added Trainer T009 to Horse H011 with nickName Trojan
+
+addTrainerToHorse returns: Successfully added Trainer T010 to Horse H012 with nickName Shams
+
+addTrainerToHorse returns: Successfully added Trainer T011 to Horse H013 with nickName Lucky
+
+addTrainerToHorse returns: Successfully added Trainer T012 to Horse H014 with nickName Tink
+
+addTrainerToHorse returns: Failed to add Trainer T002 to Horse H001 with nickName Brown
+
+addVeterinarianToHorse returns: Successfully added Veterinarian V001 to Horse H001 with nickName Brown
+
+addVeterinarianToHorse returns: Successfully added Veterinarian V001 to Horse H002 with nickName Ultima
+
+addVeterinarianToHorse returns: Successfully added Veterinarian V001 to Horse H003 with nickName Moisha
+
+addVeterinarianToHorse returns: Successfully added Veterinarian V001 to Horse H011 with nickName Trojan
+
+addVeterinarianToHorse returns: Successfully added Veterinarian V001 to Horse H013 with nickName Lucky
+
+addVeterinarianToHorse returns: Successfully added Veterinarian V002 to Horse H001 with nickName Brown
+
+addVeterinarianToHorse returns: Successfully added Veterinarian V002 to Horse H004 with nickName Sleek
+
+addVeterinarianToHorse returns: Successfully added Veterinarian V002 to Horse H005 with nickName Missi
+
+addVeterinarianToHorse returns: Successfully added Veterinarian V002 to Horse H006 with nickName Star
+
+addVeterinarianToHorse returns: Successfully added Veterinarian V003 to Horse H001 with nickName Brown
+
+addVeterinarianToHorse returns: Successfully added Veterinarian V003 to Horse H006 with nickName Star
+
+addVeterinarianToHorse returns: Successfully added Veterinarian V003 to Horse H012 with nickName Shams
+
+addVeterinarianToHorse returns: Successfully added Veterinarian V003 to Horse H015 with nickName Speedy
+
+addVeterinarianToHorse returns: Successfully added Veterinarian V004 to Horse H007 with nickName Max
+
+addVeterinarianToHorse returns: Successfully added Veterinarian V004 to Horse H008 with nickName Queen
+
+addVeterinarianToHorse returns: Successfully added Veterinarian V004 to Horse H012 with nickName Shams
+
+addVeterinarianToHorse returns: Successfully added Veterinarian V005 to Horse H009 with nickName Sable
+
+addVeterinarianToHorse returns: Successfully added Veterinarian V005 to Horse H010 with nickName Dream
+
+addVeterinarianToHorse returns: Successfully added Veterinarian V005 to Horse H011 with nickName Trojan
+
+addVeterinarianToHorse returns: Failed to add Veterinarian V004 to Horse H001 with nickName Brown
+
+addEquestrianToHorse returns: Successfully added Equestrian E001 to Horse H002 with nick name Ultima
+
+addEquestrianToHorse returns: Successfully added Equestrian E002 to Horse H005 with nick name Missi
+
+addEquestrianToHorse returns: Successfully added Equestrian E003 to Horse H006 with nick name Star
+
+addEquestrianToHorse returns: Successfully added Equestrian E004 to Horse H007 with nick name Max
+
+addEquestrianToHorse returns: Successfully added Equestrian E005 to Horse H008 with nick name Queen
+
+addEquestrianToHorse returns: Successfully added Equestrian E006 to Horse H009 with nick name Sable
+
+addEquestrianToHorse returns: Failed to add Equestrian E001 to Horse H010 with nickName Dream
+
+addEquestrianToHorse returns: Successfully added Equestrian E008 to Horse H001 with nick name Brown
+
+addEquestrianToHorse returns: Successfully added Equestrian E009 to Horse H003 with nick name Moisha
+
+addEquestrianToHorse returns: Successfully added Equestrian E010 to Horse H004 with nick name Sleek
+
+addEquestrianToHorse returns: Successfully added Equestrian E011 to Horse H011 with nick name Trojan
+
+addEquestrianToHorse returns: Successfully added Equestrian E012 to Horse H012 with nick name Shams
+
+addEquestrianToHorse returns: Successfully added Equestrian E007 to Horse H015 with nick name Speedy
+
+addHorseToCompetition returns: Successfully added Horse H002 to Competition No 1001
+
+addHorseToCompetition returns: Successfully added Horse H002 to Competition No 1002
+
+addHorseToCompetition returns: Successfully added Horse H006 to Competition No 1003
+
+addHorseToCompetition returns: Failed to add new Horse H007 to Competition No 1004
+
+addHorseToCompetition returns: Successfully added Horse H008 to Competition No 1005
+
+addHorseToCompetition returns: Failed to add new Horse H009 to Competition No 1006
+
+addHorseToCompetition returns: Successfully added Horse H008 to Competition No 1007
+
+addHorseToCompetition returns: Successfully added Horse H006 to Competition No 1007
+
+addHorseToCompetition returns: Successfully added Horse H005 to Competition No 1005
+
+addHorseToCompetition returns: Failed to add new Horse H007 to Competition No 1004
+
+addHorseToCompetition returns: Failed to add new Horse H008 to Competition No 1005
+
+addHorseToCompetition returns: Successfully added Horse H008 to Competition No 1003
+
+addHorseToCompetition returns: Failed to add new Horse H009 to Competition No 1006
+
+addHorseToCompetition returns: Successfully added Horse H008 to Competition No 1002
+
+addHorseToCompetition returns: Successfully added Horse H006 to Competition No 1001
+
+addHorseToCompetition returns: Failed to add new Horse H010 to Competition No 1001
+
+addHorseToCompetition returns: Successfully added Horse H012 to Competition No 1002
+
+addHorseToCompetition returns: Failed to add new Horse H012 to Competition No 1004
+
+addHorseToCompetition returns: Failed to add new Horse H014 to Competition No 1005
+
+addHorseToCompetition returns: Successfully added Horse H006 to Competition No 1006
+
+addHorseToCompetition returns: Successfully added Horse H011 to Competition No 1007
+
+addHorseToCompetition returns: Failed to add new Horse H008 to Competition No 1004
+
+addHorseToCompetition returns: Successfully added Horse H011 to Competition No 1002
+
+addHorseToCompetition returns: Successfully added Horse H008 to Competition No 1001
+
+addHorseToCompetition returns: Failed to add new Horse H015 to Competition No 1004
+
+addHorseToCompetition returns: Successfully added Horse H015 to Competition No 1001
+
+addHorseToCompetition returns: Successfully added Horse H015 to Competition No 1005
+
+addHorseToCompetition returns: Successfully added Horse H011 to Competition No 1001
+
+addHorseToCompetition returns: Successfully added Horse H011 to Competition No 1005
+
+addHorseToCompetition returns: Successfully added Horse H002 to Competition No 5656757
+
+addGamblingBetsForCompetition returns: Successfully added Bet from Bookmaker No 345345 of Gambler No G001 to Competition No 1001 on Horse No H002 with Name Ultima.
+
+addGamblingBetsForCompetition returns: Successfully added Bet from Bookmaker No 2342545 of Gambler No G002 to Competition No 1003 on Horse No H008 with Name Queen.
+
+addGamblingBetsForCompetition returns: Failed add Bet from Bookmaker No 4543676 of Gambler No G003 to Competition No 1004 on Horse No H007 with Name Max.
+
+addGamblingBetsForCompetition returns: Successfully added Bet from Bookmaker No 6656756 of Gambler No G004 to Competition No 1002 on Horse No H008 with Name Queen.
+
+addGamblingBetsForCompetition returns: Successfully added Bet from Bookmaker No 567565 of Gambler No G005 to Competition No 1005 on Horse No H011 with Name Trojan.
+
+addGamblingBetsForCompetition returns: Successfully added Bet from Bookmaker No 345345 of Gambler No G001 to Competition No 1002 on Horse No H002 with Name Ultima.
+
+addGamblingBetsForCompetition returns: Successfully added Bet from Bookmaker No 2342545 of Gambler No G002 to Competition No 1005 on Horse No H005 with Name Missi.
+
+addGamblingBetsForCompetition returns: Successfully added Bet from Bookmaker No 4543676 of Gambler No G003 to Competition No 1001 on Horse No H011 with Name Trojan.
+
+addGamblingBetsForCompetition returns: Failed add Bet from Bookmaker No 6656756 of Gambler No G004 to Competition No 1004 on Horse No H007 with Name Max.
+
+addGamblingBetsForCompetition returns: Failed add Bet from Bookmaker No 567565 of Gambler No G005 to Competition No 1005 on Horse No H015 with Name Speedy.
+
+addGamblingBetsForCompetition returns: Successfully added Bet from Bookmaker No 345345 of Gambler No G001 to Competition No 1007 on Horse No H008 with Name Queen.
+
+addGamblingBetsForCompetition returns: Failed add Bet from Bookmaker No 2342545 of Gambler No G002 to Competition No 1005 on Horse No H005 with Name Missi.
+
+addGamblingBetsForCompetition returns: Successfully added Bet from Bookmaker No 4543676 of Gambler No G003 to Competition No 1002 on Horse No H002 with Name Ultima.
+
+addGamblingBetsForCompetition returns: Successfully added Bet from Bookmaker No 6656756 of Gambler No G004 to Competition No 1001 on Horse No H002 with Name Ultima.
+
+addGamblingBetsForCompetition returns: Successfully added Bet from Bookmaker No 567565 of Gambler No G005 to Competition No 1001 on Horse No H015 with Name Speedy.
+
+
+=== findTheBestHorse returns: ===
+
+Horse details:
+Identifier Serial: H006
+nick name: Star
+Birtn date: 08/05/2002
+Gender: m
+Genre: CANADIAN
+Color: java.awt.Color[r=134,g=253,b=32]
+Weight: 134.87 kg
+Popularity rate: 304.3325681328376 points
+Price: 45565.4 NIS
+Revenue: 3466758.8
+Total participates times: 4
+Equestrian name: ChuckNorris
+Trainer name: AlexGorelik
+
+
+==== Top10 Trainers Ranked Report ====
+
+Trainer details:
+Id:T005
+Name: MuhammadNaser
+BirthDate: 04/04/1985
+SerialId: TW005
+Salary: 5657.0 NIS
+Rank: JUNIOR
+Success rate: 500.0 points
+Total winner horses: 5
+
+Trainer details:
+Id:T009
+Name: MichaelRozin
+BirthDate: 08/10/1975
+SerialId: TW009
+Salary: 5640.0 NIS
+Rank: BEGGINER
+Success rate: 400.0 points
+Total winner horses: 4
+
+Trainer details:
+Id:T003
+Name: AlexGorelik
+BirthDate: 02/02/1988
+SerialId: TW003
+Salary: 7500.0 NIS
+Rank: BEGGINER
+Success rate: 400.0 points
+Total winner horses: 4
+
+Trainer details:
+Id:T001
+Name: DovRam
+BirthDate: 10/12/1985
+SerialId: TW001
+Salary: 7899.0 NIS
+Rank: BEGGINER
+Success rate: 100.0 points
+Total winner horses: 3
+
+Trainer details:
+Id:T010
+Name: ShiriMimon
+BirthDate: 09/11/1990
+SerialId: TW010
+Salary: 6788.0 NIS
+Rank: PUNK
+Success rate: 100.0 points
+Total winner horses: 1
+
+Trainer details:
+Id:T002
+Name: AlexGore
+BirthDate: 03/12/1987
+SerialId: TW002
+Salary: 7500.0 NIS
+Rank: EXPERT
+Success rate: 50.0 points
+Total winner horses: 1
+
+Trainer details:
+Id:T015
+Name: MotiFridman
+BirthDate: 11/03/1981
+SerialId: TW016
+Salary: 5756.0 NIS
+Rank: EXPERT
+Success rate: 0.0 points
+Total winner horses: 0
+
+Trainer details:
+Id:T012
+Name: RamGadot
+BirthDate: 11/10/1989
+SerialId: TW012
+Salary: 7685.0 NIS
+Rank: EXPERT
+Success rate: 0.0 points
+Total winner horses: 0
+
+Trainer details:
+Id:T014
+Name: BashirZahara
+BirthDate: 12/01/1980
+SerialId: TW015
+Salary: 5888.0 NIS
+Rank: MASTER
+Success rate: 0.0 points
+Total winner horses: 0
+
+Trainer details:
+Id:T011
+Name: DovRam
+BirthDate: 10/12/1990
+SerialId: TW011
+Salary: 7899.0 NIS
+Rank: BEGGINER
+Success rate: 0.0 points
+Total winner horses: 0
+
+==== End of Top10 Trainers Ranked Report ====
+
+removeHorse returns: Successfully removed Horse with ID H006 and name Star
+
+
+=== findTheBestHorse returns: ===
+
+Horse details:
+Identifier Serial: H008
+nick name: Queen
+Birtn date: 01/11/2002
+Gender: f
+Genre: PAINT
+Color: java.awt.Color[r=23,g=100,b=32]
+Weight: 223.65 kg
+Popularity rate: 116.14608640012798 points
+Price: 10002.3 NIS
+Revenue: 232345.6
+Total participates times: 5
+Equestrian name: NikolayValuev
+Trainer name: MuhammadNaser
+
+
+=== findTheMostUnluckyGambler returns: ===
+
+Id:G001
+Name: TamiEdit
+BirthDate: 12/01/1979
+The Gambler account is: 85800.0NIS
+The Gambler gain is: 7800.0NIS
+
+removeEquestrian returns: Successfully removed Equestrian E005
+
+removeTrainer returns: Successfully removed Trainer T009
+removeVeterinarian returns: Successfully removed Veterinarian V004
+removeEquestrianFromHorse returns: Failed to remove Equestrian from Horse E003 to Horse H006 with nick name Star
+removeEquestrianFromHorse returns: Failed to remove Equestrian from Horse E001 to Horse H010 with nick name Dream
+removeEquestrianFromHorse returns: Successfully removed Equestrian fromE004 to Horse H007 with nick name Max
+removeHorseFromCompetition returns: Successfully remove Horse H002 from Competition No 5656757
+
+removeGamblingBetsForCompetition returns: Successfully removed Bet from Bookmaker No 345345 of Gambler No G001 to Competition No 1001 on Horse No H002 with Name Ultima.
+
+
+=== findTheMostUnluckyGambler returns: ===
+
+Id:G001
+Name: TamiEdit
+BirthDate: 12/01/1979
+The Gambler account is: 78780.0NIS
+The Gambler gain is: 7020.0NIS
+
+removeTrainerFromHorse returns: Successfully removed Trainer fromT001 fullName TW001 to Horse H003 with nick name Moisha
+removeVeterinarianFromHorse returns: Successfully removed Veterinar fromV001 fullName VW001 to Horse H013 with nick name Lucky
+
+=== printAllHorses returns: ===
+
+
+Horse details:
+Identifier Serial: H005
+nick name: Missi
+Birtn date: 04/09/2004
+Gender: f
+Genre: ARABIAN
+Color: java.awt.Color[r=255,g=255,b=255]
+Weight: 487.65 kg
+Popularity rate: 13.455065785310344 points
+Price: 34764.6 NIS
+Revenue: 467759.98
+Total participates times: 1
+Equestrian name: TomRanger
+Trainer name: AlexGore
+
+Horse details:
+Identifier Serial: H015
+nick name: Speedy
+Birtn date: 07/02/2006
+Gender: m
+Genre: STANDARDBRED
+Color: java.awt.Color[r=11,g=23,b=23]
+Weight: 231.3 kg
+Popularity rate: 5.361702127659575 points
+Price: 23500.0 NIS
+Revenue: 63000.0
+Total participates times: 2
+Equestrian name: ElenaKoen
+
+Horse details:
+Identifier Serial: H004
+nick name: Sleek
+Birtn date: 11/09/2005
+Gender: f
+Genre: ARABIAN
+Color: java.awt.Color[r=0,g=255,b=255]
+Weight: 320.55 kg
+Popularity rate: 25.78181380803464 points
+Price: 18290.8 NIS
+Revenue: 23578.5
+Total participates times: 20
+Equestrian name: DanaDaen
+Trainer name: AlexGore
+
+Horse details:
+Identifier Serial: H008
+nick name: Queen
+Birtn date: 01/11/2002
+Gender: f
+Genre: PAINT
+Color: java.awt.Color[r=23,g=100,b=32]
+Weight: 223.65 kg
+Popularity rate: 116.14608640012798 points
+Price: 10002.3 NIS
+Revenue: 232345.6
+Total participates times: 5
+Equestrian name: NikolayValuev
+Trainer name: MuhammadNaser
+
+Horse details:
+Identifier Serial: H002
+nick name: Ultima
+Birtn date: 05/01/2002
+Gender: m
+Genre: ARABIAN
+Color: java.awt.Color[r=234,g=135,b=11]
+Weight: 232.54 kg
+Popularity rate: 38.06679649464459 points
+Price: 1232.4 NIS
+Revenue: 23456.76
+Total participates times: 2
+Equestrian name: BorisButman
+Trainer name: DovRam
+
+Horse details:
+Identifier Serial: H013
+nick name: Lucky
+Birtn date: 05/11/2007
+Gender: m
+Genre: QUARTER
+Color: java.awt.Color[r=33,g=14,b=11]
+Weight: 231.3 kg
+Popularity rate: 1.7851851851851852 points
+Price: 27000.0 NIS
+Revenue: 24100.0
+Total participates times: 2
+Trainer name: DovRam
+
+Horse details:
+Identifier Serial: H007
+nick name: Max
+Birtn date: 12/01/2011
+Gender: m
+Genre: ARABIAN
+Color: java.awt.Color[r=234,g=135,b=11]
+Weight: 332.54 kg
+Popularity rate: 133.2337877312561 points
+Price: 1232.4 NIS
+Revenue: 23456.76
+Total participates times: 7
+Trainer name: IgorShulman
+
+Horse details:
+Identifier Serial: H012
+nick name: Shams
+Birtn date: 02/03/2007
+Gender: f
+Genre: CANADIAN
+Color: java.awt.Color[r=50,g=14,b=71]
+Weight: 231.3 kg
+Popularity rate: 3.142857142857143 points
+Price: 14000.0 NIS
+Revenue: 44000.0
+Total participates times: 1
+Equestrian name: SashkaTorhinsky
+Trainer name: ShiriMimon
+
+Horse details:
+Identifier Serial: H003
+nick name: Moisha
+Birtn date: 02/11/2005
+Gender: m
+Genre: THOROUGHBRED
+Color: java.awt.Color[r=34,g=54,b=78]
+Weight: 245.87 kg
+Popularity rate: 6.547204324714344 points
+Price: 3547.98 NIS
+Revenue: 4645.87
+Total participates times: 5
+Equestrian name: AllaTorhin
+
+Horse details:
+Identifier Serial: H011
+nick name: Trojan
+Birtn date: 01/11/2007
+Gender: f
+Genre: STANDARDBRED
+Color: java.awt.Color[r=30,g=14,b=27]
+Weight: 231.3 kg
+Popularity rate: 5.333333333333333 points
+Price: 24000.0 NIS
+Revenue: 32000.0
+Total participates times: 4
+Equestrian name: ShmuelShmuel
+Trainer name: MichaelRozin
+
+Horse details:
+Identifier Serial: H010
+nick name: Dream
+Birtn date: 02/09/2008
+Gender: m
+Genre: APPALOOSA
+Color: java.awt.Color[r=10,g=44,b=57]
+Weight: 246.2 kg
+Popularity rate: 8.0 points
+Price: 30000.0 NIS
+Revenue: 80000.0
+Total participates times: 3
+Equestrian name: BorisButman
+Trainer name: RamiLevy
+
+Horse details:
+Identifier Serial: H001
+nick name: Brown
+Birtn date: 02/11/2004
+Gender: m
+Genre: THOROUGHBRED
+Color: java.awt.Color[r=34,g=54,b=78]
+Weight: 245.87 kg
+Popularity rate: 7.956456913511349 points
+Price: 3547.98 NIS
+Revenue: 5645.87
+Total participates times: 5
+Equestrian name: JasonStatham
+
+Horse details:
+Identifier Serial: H009
+nick name: Sable
+Birtn date: 03/09/2010
+Gender: m
+Genre: ARABIAN
+Color: java.awt.Color[r=12,g=87,b=67]
+Weight: 317.6 kg
+Popularity rate: 0.0 points
+Price: 40000.0 NIS
+Revenue: 70000.0
+Total participates times: 0
+Equestrian name: TatianaRoi
+Trainer name: FatmaJohny
+
+Horse details:
+Identifier Serial: H014
+nick name: Tink
+Birtn date: 04/12/2009
+Gender: f
+Genre: IRISH_HUNTER
+Color: java.awt.Color[r=22,g=20,b=17]
+Weight: 231.3 kg
+Popularity rate: 10.352941176470589 points
+Price: 34000.0 NIS
+Revenue: 35200.0
+Total participates times: 10
+Trainer name: RamGadot
+
+=== printAllPersons returns: ===
+
+
+Trainer details:
+Id:T005
+Name: MuhammadNaser
+BirthDate: 04/04/1985
+SerialId: TW005
+Salary: 5657.0 NIS
+Rank: JUNIOR
+Success rate: 500.0 points
+Total winner horses: 5
+
+Trainer details:
+Id:T002
+Name: AlexGore
+BirthDate: 03/12/1987
+SerialId: TW002
+Salary: 7500.0 NIS
+Rank: EXPERT
+Success rate: 50.0 points
+Total winner horses: 1
+
+Trainer details:
+Id:T015
+Name: MotiFridman
+BirthDate: 11/03/1981
+SerialId: TW016
+Salary: 5756.0 NIS
+Rank: EXPERT
+Success rate: 0.0 points
+Total winner horses: 0
+
+Trainer details:
+Id:T012
+Name: RamGadot
+BirthDate: 11/10/1989
+SerialId: TW012
+Salary: 7685.0 NIS
+Rank: EXPERT
+Success rate: 0.0 points
+Total winner horses: 0
+
+Veterinarian details:
+Id:V007
+Name: RotiHaji
+BirthDate: 06/11/1989
+SerialId: VW007
+Salary: 2223.0 NIS
+Most Horses Genre: UNKNOWN
+Total treatment hours: 50
+
+Equestrian details:
+Id:E010
+Name: DanaDaen
+BirthDate: 03/05/1973
+Horse name:Sleek
+Rank: BEGGINER
+
+Equestrian details:
+Id:E011
+Name: ShmuelShmuel
+BirthDate: 05/05/1990
+Horse name:Trojan
+Rank: JUNIOR
+
+Equestrian details:
+Id:E012
+Name: SashkaTorhinsky
+BirthDate: 09/03/1983
+Horse name:Shams
+Rank: JUNIOR
+
+Trainer details:
+Id:T014
+Name: BashirZahara
+BirthDate: 12/01/1980
+SerialId: TW015
+Salary: 5888.0 NIS
+Rank: MASTER
+Success rate: 0.0 points
+Total winner horses: 0
+
+Id:B003
+Name: PhilisMoris
+BirthDate: 08/07/1967
+The BookMaker licenseNo is: 4543676
+The BookMaker Maximum Bet is: 
+The BookMaker persent to bet is: 0.06%
+The BookMaker gain is: 2814.0
+
+Trainer details:
+Id:T011
+Name: DovRam
+BirthDate: 10/12/1990
+SerialId: TW011
+Salary: 7899.0 NIS
+Rank: BEGGINER
+Success rate: 0.0 points
+Total winner horses: 0
+
+Veterinarian details:
+Id:V003
+Name: DudiKarov
+BirthDate: 01/12/1979
+SerialId: VW003
+Salary: 6579.0 NIS
+Most Horses Genre: STANDARDBRED
+Total treatment hours: 312
+
+Id:B002
+Name: KarenMcKoy
+BirthDate: 11/10/1978
+The BookMaker licenseNo is: 2342545
+The BookMaker Maximum Bet is: 
+The BookMaker persent to bet is: 0.013%
+The BookMaker gain is: 364.0
+
+Id:B005
+Name: DirtyGarry
+BirthDate: 01/01/1981
+The BookMaker licenseNo is: 567565
+The BookMaker Maximum Bet is: 
+The BookMaker persent to bet is: 0.5%
+The BookMaker gain is: 875.0
+
+Trainer details:
+Id:T008
+Name: AlexPoliakov
+BirthDate: 07/07/1984
+SerialId: TW008
+Salary: 3535.0 NIS
+Rank: JUNIOR
+Success rate: 0.0 points
+Total winner horses: 0
+
+Veterinarian details:
+Id:V006
+Name: RamiKhan
+BirthDate: 04/01/1988
+SerialId: VW006
+Salary: 3323.0 NIS
+Most Horses Genre: UNKNOWN
+Total treatment hours: 400
+
+Veterinarian details:
+Id:V005
+Name: MekiRafi
+BirthDate: 07/02/1988
+SerialId: VW005
+Salary: 5036.0 NIS
+Most Horses Genre: STANDARDBRED
+Total treatment hours: 344
+
+Veterinarian details:
+Id:V002
+Name: DudiKarov
+BirthDate: 08/04/1983
+SerialId: VW002
+Salary: 7237.0 NIS
+Most Horses Genre: ARABIAN
+Total treatment hours: 532
+
+Id:B004
+Name: MamaBabushka
+BirthDate: 01/12/1954
+The BookMaker licenseNo is: 6656756
+The BookMaker Maximum Bet is: 
+The BookMaker persent to bet is: 0.03%
+The BookMaker gain is: 288.75
+
+Id:B001
+Name: RuthMacker
+BirthDate: 11/11/1980
+The BookMaker licenseNo is: 345345
+The BookMaker Maximum Bet is: 
+The BookMaker persent to bet is: 0.07%
+The BookMaker gain is: 558.6
+
+Trainer details:
+Id:T004
+Name: IgorShulman
+BirthDate: 03/03/1986
+SerialId: TW004
+Salary: 4535.0 NIS
+Rank: MASTER
+Success rate: 0.0 points
+Total winner horses: 0
+
+Id:G002
+Name: MahmudJohan
+BirthDate: 11/02/1966
+The Gambler account is: 230000.0NIS
+The Gambler gain is: 65000.0NIS
+
+Trainer details:
+Id:T007
+Name: RamiLevy
+BirthDate: 06/06/1983
+SerialId: TW007
+Salary: 5757.0 NIS
+Rank: MASTER
+Success rate: 0.0 points
+Total winner horses: 0
+
+Id:G001
+Name: TamiEdit
+BirthDate: 12/01/1979
+The Gambler account is: 78780.0NIS
+The Gambler gain is: 7020.0NIS
+
+Trainer details:
+Id:T001
+Name: DovRam
+BirthDate: 10/12/1985
+SerialId: TW001
+Salary: 7899.0 NIS
+Rank: BEGGINER
+Success rate: 100.0 points
+Total winner horses: 2
+
+Equestrian details:
+Id:E001
+Name: BorisButman
+BirthDate: 10/01/1983
+Horse name:Ultima
+Rank: JUNIOR
+
+Id:G004
+Name: ArnoldShvarz
+BirthDate: 10/07/1983
+The Gambler account is: 30900.0NIS
+The Gambler gain is: 22000.0NIS
+
+Equestrian details:
+Id:E002
+Name: TomRanger
+BirthDate: 07/04/1981
+Horse name:Missi
+Rank: EXPERT
+
+Id:G003
+Name: SaraCruz
+BirthDate: 10/10/1987
+The Gambler account is: 137000.0NIS
+The Gambler gain is: 67000.0NIS
+
+Equestrian details:
+Id:E003
+Name: ChuckNorris
+BirthDate: 09/12/1984
+Horse name: currently does not have a horse
+Rank: MASTER
+
+Equestrian details:
+Id:E004
+Name: TatianaBoikov
+BirthDate: 10/01/1986
+Horse name: currently does not have a horse
+Rank: MASTER
+
+Id:G005
+Name: SilvestrStatiton
+BirthDate: 11/09/1991
+The Gambler account is: 45600.0NIS
+The Gambler gain is: 40000.0NIS
+
+Equestrian details:
+Id:E006
+Name: TatianaRoi
+BirthDate: 03/12/1984
+Horse name:Sable
+Rank: PUNK
+
+Equestrian details:
+Id:E007
+Name: ElenaKoen
+BirthDate: 10/07/1987
+Horse name:Speedy
+Rank: JUNIOR
+
+Equestrian details:
+Id:E008
+Name: JasonStatham
+BirthDate: 07/01/1968
+Horse name:Brown
+Rank: EXPERT
+
+Trainer details:
+Id:T006
+Name: FatmaJohny
+BirthDate: 05/05/1982
+SerialId: TW006
+Salary: 6568.0 NIS
+Rank: JUNIOR
+Success rate: 0.0 points
+Total winner horses: 0
+
+Equestrian details:
+Id:E009
+Name: AllaTorhin
+BirthDate: 12/10/1982
+Horse name:Moisha
+Rank: JUNIOR
+
+Trainer details:
+Id:T003
+Name: AlexGorelik
+BirthDate: 02/02/1988
+SerialId: TW003
+Salary: 7500.0 NIS
+Rank: BEGGINER
+Success rate: 400.0 points
+Total winner horses: 0
+
+Veterinarian details:
+Id:V001
+Name: MladenMladenov
+BirthDate: 05/03/1982
+SerialId: VW001
+Salary: 3895.0 NIS
+Most Horses Genre: THOROUGHBRED
+Total treatment hours: 342
+
+Trainer details:
+Id:T013
+Name: ShmuelShmuel
+BirthDate: 12/11/1986
+SerialId: TW013
+Salary: 6555.0 NIS
+Rank: JUNIOR
+Success rate: 0.0 points
+Total winner horses: 0
+
+Trainer details:
+Id:T010
+Name: ShiriMimon
+BirthDate: 09/11/1990
+SerialId: TW010
+Salary: 6788.0 NIS
+Rank: PUNK
+Success rate: 100.0 points
+Total winner horses: 1
+
+=== printAllBookMakers returns: ===
+
+Id:B001
+Name: RuthMacker
+BirthDate: 11/11/1980
+The BookMaker licenseNo is: 345345
+The BookMaker Maximum Bet is: 
+The BookMaker persent to bet is: 0.07%
+The BookMaker gain is: 558.6
+
+Id:B002
+Name: KarenMcKoy
+BirthDate: 11/10/1978
+The BookMaker licenseNo is: 2342545
+The BookMaker Maximum Bet is: 
+The BookMaker persent to bet is: 0.013%
+The BookMaker gain is: 364.0
+
+Id:B003
+Name: PhilisMoris
+BirthDate: 08/07/1967
+The BookMaker licenseNo is: 4543676
+The BookMaker Maximum Bet is: 
+The BookMaker persent to bet is: 0.06%
+The BookMaker gain is: 2814.0
+
+Id:B004
+Name: MamaBabushka
+BirthDate: 01/12/1954
+The BookMaker licenseNo is: 6656756
+The BookMaker Maximum Bet is: 
+The BookMaker persent to bet is: 0.03%
+The BookMaker gain is: 288.75
+
+Id:B005
+Name: DirtyGarry
+BirthDate: 01/01/1981
+The BookMaker licenseNo is: 567565
+The BookMaker Maximum Bet is: 
+The BookMaker persent to bet is: 0.5%
+The BookMaker gain is: 875.0
+
+
+=== printAllGamblers returns: ===
+
+Id:G002
+Name: MahmudJohan
+BirthDate: 11/02/1966
+The Gambler account is: 230000.0NIS
+The Gambler gain is: 65000.0NIS
+
+Id:G001
+Name: TamiEdit
+BirthDate: 12/01/1979
+The Gambler account is: 78780.0NIS
+The Gambler gain is: 7020.0NIS
+
+Id:G004
+Name: ArnoldShvarz
+BirthDate: 10/07/1983
+The Gambler account is: 30900.0NIS
+The Gambler gain is: 22000.0NIS
+
+Id:G003
+Name: SaraCruz
+BirthDate: 10/10/1987
+The Gambler account is: 137000.0NIS
+The Gambler gain is: 67000.0NIS
+
+Id:G005
+Name: SilvestrStatiton
+BirthDate: 11/09/1991
+The Gambler account is: 45600.0NIS
+The Gambler gain is: 40000.0NIS
+

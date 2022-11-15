@@ -1,0 +1,223 @@
+
+
+// Adding horses to the BreedingHorses system
+
+addHorse H001 Brown 23/02/2003 245.87 m 34 54 78 3547.98 THOROUGHBRED 5645.87 5
+addHorse H002 Ultima 25/05/2000 232.54 m 234 135 11 1232.4 ARABIAN 23456.76 7
+addHorse H003 Moisha 23/02/2004 245.87 m 34 54 78 3547.98 THOROUGHBRED 4645.87 5
+addHorse H004 Sleek 09/11/2005 320.55 f 0 255 255 18290.8 ARABIAN 23578.5 20
+addHorse H005 Missi 09/04/2004 487.65 f 255 255 255 34764.6 ARABIAN 467759.98 12
+addHorse H006 Star 17/08/2001 134.87 m 134 253 32 45565.4 CANADIAN 3466758.8 14
+addHorse H007 Max 25/12/2009 332.54 m 234 135 11 1232.4 ARABIAN 23456.76 7
+addHorse H008 Queen 11/01/2002 223.65 f 23 100 32 10002.3 PAINT 232345.6 9
+addHorse H009 Sable 09/03/2010 317.6 m 12 87 67 40000 ARABIAN 70000 0
+addHorse H010 Dream 09/02/2008 246.2 m 10 44 57 30000 APPALOOSA 80000 3
+addHorse H011 Trojan 11/01/2007 231.3 f 30 14 27 24000 STANDARDBRED 32000 7
+addHorse H012 Shams 15/02/2006 231.3 f 50 14 71 14000 CANADIAN 44000 3
+addHorse H013 Lucky 11/05/2007 231.3 m 33 14 11 27000 QUARTER 24100 2
+addHorse H014 Tink 24/04/2008 231.3 f  22 20 17 34000 IRISH_HUNTER 35200 10
+addHorse H015 Speedy 14/07/2005 231.3 m 11 23 23 23500 STANDARDBRED 63000 17
+
+// Adding trainers to the BreedingHorses system
+
+addTrainer T001 DovRam 24/10/84 TW001 7899 BEGGINER 
+addTrainer T002 AlexGore 24/03/86 TW002 7500 EXPERT 
+addTrainer T003 AlexGorelik 14/02/87 TW003 7500 BEGGINER 
+addTrainer T004 IgorShulman 15/03/85 TW004 4535 MASTER 
+addTrainer T005 MuhammadNaser 16/04/84 TW005 5657 JUNIOR 
+addTrainer T006 FatmaJohny 17/05/81 TW006 6567.6 JUNIOR 
+addTrainer T007 RamiLevy 18/06/82 TW007 5757 MASTER 
+addTrainer T008 AlexPoliakov 19/07/83 TW008 3535 JUNIOR 
+addTrainer T009 MichaelRozin 10/08/75 TW009 5640 BEGGINER 
+addTrainer T010 ShiriMimon 11/09/90 TW010 6788 PUNK 
+addTrainer T011 DovRam 24/10/89 TW011 7899 BEGGINER 
+addTrainer T012 RamGadot 22/11/88 TW012 7685 EXPERT 
+addTrainer T013 ShmuelShmuel 23/12/85 TW013 6555 JUNIOR 
+addTrainer T014 BashirZahara 25/12/78 TW015 5888 MASTER 
+addTrainer T015 MotiFridman 27/11/79 TW016 5756 EXPERT 
+
+
+
+// Adding veterinarians to the BreedingHorses system
+
+addVeterinarian V001 MladenMladenov 3/05/82 VW001 3540.7 342
+addVeterinarian V002 DudiKarov 4/08/83 VW002 6578.7 532
+addVeterinarian V003 DudiKarov 24/01/78 VW003 6578.5 312
+addVeterinarian V004 VardaOlga 29/05/89 VW004 2323.3 250
+addVeterinarian V005 MekiRafi 14/07/87 VW005 4578.1 344
+addVeterinarian V006 RamiKhan 13/04/87 VW006 3323.2 400
+addVeterinarian V007 RotiHaji 11/06/89 VW007 2223.2 50
+
+
+// Adding equestrian to the BreedingHorses system
+
+addEquestrian E001 BorisButman 25/10/81 JUNIOR 01:17:34
+addEquestrian E002 TomRanger 16/07/80 EXPERT 02:34:56
+addEquestrian E003 ChuckNorris 12/09/84 MASTER 10:06:00
+addEquestrian E004 TatianaBoikov 25/10/84 MASTER 07:07:07
+addEquestrian E005 NikolayValuev 22/11/73 JUNIOR 	08:09:10
+addEquestrian E006 TatianaRoi 12/03/84 PUNK 17:18:20
+addEquestrian E007 ElenaKoen 07/10/87 JUNIOR 02:17:45
+addEquestrian E008 JasonStatham 25/07/66 EXPERT 32:12:09
+addEquestrian E009 AllaTorhin 22/12/81 JUNIOR 04:07:11
+addEquestrian E010 DanaDaen 17/03/72 BEGGINER 05:09:07
+addEquestrian E011 ShmuelShmuel 17/05/89 JUNIOR 06:06:06
+addEquestrian E012 SashkaTorhinsky 27/09/81 JUNIOR 14:17:10
+
+// Adding gamblers to the BreedingHorses System
+
+addGambler G001 TamiEdit 13/12/1978 23000
+addGambler G002 MahmudJohan 14/11/1965 150000
+addGambler G003 SaraCruz 10/10/87 3000
+addGambler G004 ArnoldShvarz 07/10/83 3400
+addGambler G005 SilvestrStatiton 09/11/91 3100
+// Adding bookMakers to the BreedingHorses System
+
+addBookMaker 345345  B001 RuthMacker 11/11/1980  0.07
+addBookMaker 2342545 B002 KarenMcKoy 22/11/1977  0.013
+addBookMaker 4543676 B003 PhilisMoris 07/08/67  0.06
+addBookMaker 6656756 B004 MamaBabushka 12/01/54  0.03
+addBookMaker 567565  B005 DirtyGarry 01/01/81  0.5
+
+
+// Adding trainer to a Horse
+
+	
+addTrainerToHorse T001 TW001 H001 Brown
+addTrainerToHorse T001 TW001 H002 Ultima
+addTrainerToHorse T001 TW001 H003 Moisha
+addTrainerToHorse T002 TW002 H004 Sleek 
+addTrainerToHorse T002 TW002 H005 Missi
+addTrainerToHorse T003 TW003 H006 Star
+addTrainerToHorse T004 TW004 H007 Max
+addTrainerToHorse T005 TW005 H008 Queen
+addTrainerToHorse T006 TW006 H009 Sable
+addTrainerToHorse T007 TW007 H010 Dream 
+addTrainerToHorse T009 TW009 H011 Trojan  
+addTrainerToHorse T010 TW010 H012 Shams
+addTrainerToHorse T011 TW011 H013 Lucky
+addTrainerToHorse T012 TW012 H014 Tink
+addTrainerToHorse T002 TW002 H001 Brown
+
+
+// Adding Veterinarian to a Horse
+
+addVeterinarianToHorse V001 VW001 H001 Brown
+addVeterinarianToHorse V001 VW001 H002 Ultima
+addVeterinarianToHorse V001 VW001 H003 Moisha
+addVeterinarianToHorse V001 VW001 H011 Trojan 
+addVeterinarianToHorse V001 VW001 H013 Lucky
+addVeterinarianToHorse V002 VW002 H001 Brown
+addVeterinarianToHorse V002 VW002 H004 Sleek 
+addVeterinarianToHorse V002 VW002 H005 Missi
+addVeterinarianToHorse V002 VW002 H006 Star
+addVeterinarianToHorse V003 VW003 H001 Brown
+addVeterinarianToHorse V003 VW003 H006 Star
+addVeterinarianToHorse V003 VW003 H012 Shams
+addVeterinarianToHorse V003 VW003 H015 Speedy
+addVeterinarianToHorse V004 VW004 H007 Max
+addVeterinarianToHorse V004 VW004 H008 Queen
+addVeterinarianToHorse V004 VW004 H012 Shams
+addVeterinarianToHorse V005 VW005 H009 Sable
+addVeterinarianToHorse V005 VW005 H010 Dream 
+addVeterinarianToHorse V005 VW005 H011 Trojan 
+addVeterinarianToHorse V004 VW004 H001 Brown
+
+
+// Adding Equestrian to a Horse
+
+addEquestrianToHorse E001  H002 Ultima 
+addEquestrianToHorse E002  H005 Missi 
+addEquestrianToHorse E003  H006 Star	
+addEquestrianToHorse E004  H007 Max	
+addEquestrianToHorse E005  H008 Queen
+addEquestrianToHorse E006  H009 Sable	
+addEquestrianToHorse E001  H010 Dream 
+addEquestrianToHorse E008 H001 Brown
+addEquestrianToHorse E009 H003 Moisha
+addEquestrianToHorse E010 H004 Sleek 
+addEquestrianToHorse E011 H011 Trojan 
+addEquestrianToHorse E012 H012 Shams
+addEquestrianToHorse E007 H015 Speedy
+
+
+
+// Adding Horse to Competition
+
+addHorseToCompetition H002 Ultima 1001 Moskva CROSS_COUNTRY 22/10/2010 1
+addHorseToCompetition H002 Ultima 1002 Tel_Aviv SHOW_JUMPING 30/11/2010 3
+addHorseToCompetition H006 Star   1003 Los_Angeles CROSS_COUNTRY 05/09/2010 2
+addHorseToCompetition H007 Max	  1004 Beirut BARELL 08/10/2010 2
+addHorseToCompetition H008 Queen  1005 Kanberra CROSS_COUNTRY 10/12/2010 1
+addHorseToCompetition H009 Sable  1006 Welingot TROT 07/01/2010 2
+addHorseToCompetition H008 Queen  1007 London GALLOP 30/01/2010 1
+addHorseToCompetition H006 Star   1007 London GALLOP 30/01/2010 1
+addHorseToCompetition H005 Missi  1005 Kanberra CROSS_COUNTRY 10/12/2010 1
+addHorseToCompetition H007 Max	  1004 Beirut BARELL 08/10/2010 2
+addHorseToCompetition H008 Queen  1005 Kanberra CROSS_COUNTRY 10/12/2010 1
+addHorseToCompetition H008 Queen  1003 Los_Angeles CROSS_COUNTRY 05/09/2010 1
+addHorseToCompetition H009 Sable  1006 Welingot TROT 07/01/2010 2 
+addHorseToCompetition H008 Queen  1002 Tel_Aviv SHOW_JUMPING 05/09/2010 3
+addHorseToCompetition H006 Star   1001 Moskva CROSS_COUNTRY 22/10/2010 1
+addHorseToCompetition H010 Dream  1001 Moskva CROSS_COUNTRY 22/10/2010 1
+addHorseToCompetition H012 Shams  1002 Tel_Aviv SHOW_JUMPING 30/11/2010 3
+addHorseToCompetition H012 Shams  1004 Beirut BARELL 08/10/2010 2
+addHorseToCompetition H014 Tink   1005 Kanberra CROSS_COUNTRY 10/12/2010 1
+addHorseToCompetition H006 Star   1006 Welingot TROT 07/01/2010 2
+addHorseToCompetition H011 Trojan 1007 London GALLOP 30/01/2010 1
+addHorseToCompetition H008 Queen  1004 Beirut BARELL 08/10/2010 2
+addHorseToCompetition H011 Trojan 1002 Tel_Aviv SHOW_JUMPING 05/09/2010 3
+addHorseToCompetition H008 Queen  1001 Moskva CROSS_COUNTRY 22/10/2010 1
+addHorseToCompetition H015 Speedy 1004 Beirut BARELL 08/10/2010 2
+addHorseToCompetition H015 Speedy   1001 Moskva CROSS_COUNTRY 22/10/2010 1
+addHorseToCompetition H015 Speedy 1005 Kanberra CROSS_COUNTRY 10/12/2010 1
+addHorseToCompetition H011 Trojan 1001 Moskva CROSS_COUNTRY 22/10/2010 1
+addHorseToCompetition H011 Trojan 1005 Kanberra CROSS_COUNTRY 10/12/2010 1
+addHorseToCompetition H002 Ultima 5656757 LosAngeles CROSS_COUNTRY 10/10/2010 1
+// addGambligBetForCompetition
+
+addGamblingBetsForCompetition 345345  B001 G001 H002 Ultima 1001 CROSS_COUNTRY 500
+addGamblingBetsForCompetition 2342545 B002 G002 H008 Queen  1003  CROSS_COUNTRY 1500
+addGamblingBetsForCompetition 4543676 B003 G003 H007 Max 1004  BARELL 700
+addGamblingBetsForCompetition 6656756 B004 G004 H008 Queen  1002 SHOW_JUMPING 550
+addGamblingBetsForCompetition 567565  B005 G005 H011 Trojan 1005 CROSS_COUNTRY 250
+
+
+addGamblingBetsForCompetition 345345  B001 G001 H002 Ultima 1002  SHOW_JUMPING  5000
+addGamblingBetsForCompetition 2342545 B002 G002 H005 Missi  1005  CROSS_COUNTRY 6500
+addGamblingBetsForCompetition 4543676 B003 G003 H011 Trojan 1001  CROSS_COUNTRY 6700
+addGamblingBetsForCompetition 6656756 B004 G004 H007 Max	1004  BARELL 5500
+addGamblingBetsForCompetition 567565  B005 G005 H015 Speedy 1005  CROSS_COUNTRY 2500
+
+addGamblingBetsForCompetition 345345  B001 G001 H008 Queen  1007  GALLOP  780
+addGamblingBetsForCompetition 2342545 B002 G002 H005 Missi  1005  CROSS_COUNTRY 6500
+addGamblingBetsForCompetition 4543676 B003 G003 H002 Ultima 1002  SHOW_JUMPING 6700
+addGamblingBetsForCompetition 6656756 B004 G004 H002 Ultima 1001  CROSS_COUNTRY 2200
+addGamblingBetsForCompetition 567565  B005 G005 H015 Speedy   1001  CROSS_COUNTRY 4000
+
+
+findTheBestHorse 0.5 0.7 0.8
+printTop10TrainersRankedReport
+removeHorse H006 Star
+findTheBestHorse 0.4 0.6 0.9
+findTheMostUnluckyGambler
+removeEquestrian E005
+removeTrainer T009 TW009
+removeVeterinarian V004 VW004
+removeEquestrianFromHorse E003  H006 Star
+removeEquestrianFromHorse E001  H010 Dream
+removeEquestrianFromHorse E004  H007 Max
+removeHorseFromCompetition H002 Ultima 5656757 CROSS_COUNTRY
+removeGamblingBetsForCompetition 345345  B001 G001 H002 Ultima 1001 CROSS_COUNTRY 
+findTheMostUnluckyGambler
+removeTrainerFromHorse T001 TW001 H003 Moisha
+removeVeterinarianFromHorse V001 VW001 H013 Lucky
+
+giveBonusToVeterinarians 340 2 0.1
+printAllHorses
+printAllPersons
+printAllBookMakers
+printAllGamblers
+
+
+
